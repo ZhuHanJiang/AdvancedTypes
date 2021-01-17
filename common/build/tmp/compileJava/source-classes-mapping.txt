@@ -1,0 +1,6 @@
+visibilities/CoreApiJavaA.java
+ visibilities.CoreApiJavaA
+visibilities/ApiJava.java
+ visibilities.ApiJava
+visibilities/CoreApiJavaB.java
+ visibilities.CoreApiJavaB
